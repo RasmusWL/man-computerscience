@@ -168,6 +168,12 @@ If you're want to earn a bit of cash after finding a bug, see [HackerOne](https:
 
 Scary story: [Data from connected CloudPets teddy bears leaked and ransomed, exposing kids' voice messages](https://www.troyhunt.com/data-from-connected-cloudpets-teddy-bears-leaked-and-ransomed-exposing-kids-voice-messages/)
 
+---
+### GDPR
+
+* [GDPR – A PRACTICAL GUIDE FOR DEVELOPERS](https://techblog.bozho.net/gdpr-practical-guide-developers/)
+* [How To Protect Your Users With The Privacy By Design Framework](https://www.smashingmagazine.com/2017/07/privacy-by-design-framework/)
+* [How GDPR Will Change The Way You Develop](https://www.smashingmagazine.com/2018/02/gdpr-for-web-developers/)
 
 
 
