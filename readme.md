@@ -39,6 +39,7 @@ I enjoyed myself:
 * [AMD vs. Intel](http://arstechnica.com/business/2013/04/the-rise-and-fall-of-amd-how-an-underdog-stuck-it-to-intel/)
 * [History on spam war from GMail engineer](https://moderncrypto.org/mail-archive/messaging/2014/000780.html)
 * [How Diablo II was made](http://www.usgamer.net/articles/in-their-own-words-an-oral-history-of-diablo-ii-with-david-brevik-max-schaefer-and-erich-schaefer)
+* [Who controls glibc? (Stallman trying to overrule)](https://lwn.net/Articles/753646/)
 
 Funny stories about bugs:
 
