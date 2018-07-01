@@ -82,6 +82,7 @@ Funny stories articles about computing or computer science:
 * [How UTF8 actually works (8 min video)](https://www.youtube.com/watch?v=MijmeoH9LT4)
 * [H.264 is Magic](https://sidbala.com/h-264-is-magic/)
 * [How Not To Sort By Average Rating](http://www.evanmiller.org/how-not-to-sort-by-average-rating.html)
+* [UTC is enough for everyone right?](https://zachholman.com/talk/utc-is-enough-for-everyone-right) -- a talk about how handling dates and time is horrible
 
 ---
 ### First minutes on a server
