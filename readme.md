@@ -209,6 +209,8 @@ http://endoflineblog.com/gitflow-considered-harmful
 
 I can dearly recommend this post about writing commit messages [A Note About Git Commit Messages](https://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html) (by Tim Pope) -- and if you want a bit more context,
 [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/)
+and
+[5 Useful Tips For A Better Commit Message](https://robots.thoughtbot.com/5-useful-tips-for-a-better-commit-message)
 
 ---
 ### SSH
