@@ -52,7 +52,7 @@ Funny stories about bugs:
 Funny stories articles about computing or computer science:
 
 * [A Brief, Incomplete, and Mostly Wrong History of Programming Languages](http://james-iry.blogspot.com/2009/05/brief-incomplete-and-mostly-wrong.html)
-* [The truth about C & Unix history](http://www.rutschle.net/tech/c_unix.shtml)
+* [The truth about C & Unix history](https://web.archive.org/web/20161015212706/http://www.rutschle.net/tech/c_unix.shtml)
 
 ---
 ### General programming culture
