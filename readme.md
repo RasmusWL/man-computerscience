@@ -158,7 +158,7 @@ Always ask these 12 questions from [the "Joel Test"](http://www.joelonsoftware.c
 ---
 ### Report writing
 
-Please, watch ["How to Write a Great Research Paper" by Simon Peyton Jones](https://www.youtube.com/watch?v=g3dkRsTqdDA)
+Please, watch ["How to Write a Great Research Paper" by Simon Peyton Jones](https://www.youtube.com/watch?v=CmvWIy6l1Fg)
 
 If you're at DIKU and have to write a synopsis with *learning objectives*, I found help in [this guide](http://www.celt.iastate.edu/teaching-resources/effective-practice/revised-blooms-taxonomy/) and [this one from DTU](http://orbit.dtu.dk/fedora/objects/orbit:82176/datastreams/file_4674797/content)
 
