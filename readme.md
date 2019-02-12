@@ -229,7 +229,7 @@ Try a tiling window manager. And stick to it for a bit. I'm sure you will like i
 * `xmonad` -- requires some configuration.
 
 ---
-#### Emacs
+### Emacs
 
 http://www.masteringemacs.org/reading-guide
 
