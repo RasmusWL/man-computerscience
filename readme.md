@@ -49,6 +49,7 @@ Funny stories about bugs:
 * [Car allergic to vanilla ice cream](http://www.cgl.uwaterloo.ca/smann/IceCream/humor.html)
 * [$400 Million lost in 45 Minutes](http://dougseven.com/2014/04/17/knightmare-a-devops-cautionary-tale/)
 * [65535 interfaces in C# ought to be enough for anybody](http://aakinshin.net/en/blog/dotnet/mono-and-65535interfaces/)
+* [The curious case of the Raspberry Pi in the network closet](https://blog.haschek.at/2018/the-curious-case-of-the-RasPi-in-our-network.html)
 
 Funny stories articles about computing or computer science:
 
@@ -72,6 +73,7 @@ Funny stories articles about computing or computer science:
 * [Writing clean code -- it's not easy, and requires "good taste"](https://medium.com/@bartobri/applying-the-linus-tarvolds-good-taste-coding-requirement-99749f37684a#.85694049f)---
 * [The Sliding Scale of Giving a Fuck](http://blog.capwatkins.com/the-sliding-scale-of-giving-a-fuck)
 * [Talks that changed the way I think about programming](http://www.opowell.com/post/talks-that-changed-the-way-i-think-about-programming/)
+* [The Best Programming Advice I Ever Got](http://russolsen.com/articles/2012/08/09/the-best-programming-advice-i-ever-got.html)
 
 ---
 ### Misc / Good things to know
@@ -84,6 +86,7 @@ Funny stories articles about computing or computer science:
 * [H.264 is Magic](https://sidbala.com/h-264-is-magic/)
 * [How Not To Sort By Average Rating](http://www.evanmiller.org/how-not-to-sort-by-average-rating.html)
 * [UTC is enough for everyone right?](https://zachholman.com/talk/utc-is-enough-for-everyone-right) -- a talk about how handling dates and time is horrible
+* _These days, lots of that stuff is available as SaaS. What are the tools and services people use instead of hosting their own?_ [Hacker News Tools of the Trade](https://github.com/cjbarber/ToolsOfTheTrade) answers that
 
 ---
 ### First minutes on a server
@@ -94,17 +97,25 @@ Funny stories articles about computing or computer science:
 ---
 ### Job search
 
-Always ask these 12 questions from [the "Joel Test"](http://www.joelonsoftware.com/articles/fog0000000043.html)
+[I interviewed at six top companies in Silicon Valley in six days, and stumbled into six job offers](https://blog.usejournal.com/i-interviewed-at-six-top-companies-in-silicon-valley-in-six-days-and-stumbled-into-six-job-offers-fe9cc7bbc996)
+explains how to practise for job interviews at companies like Google (I skipped the parts about iOS apps). Most of it boils down to practising, specifically it was  recommended to look at [Top Interview Questions from LeetCode](https://leetcode.com/problemset/top-interview-questions/).
 
-#### Equity and Stcok Options
+I think these 12 questions from [the "Joel Test"](http://www.joelonsoftware.com/articles/fog0000000043.html) forms a good baseline to spot companies that could be terrible.
 
-* [An Engineer’s guide to Stock Options](https://blog.alexmaccaw.com/an-engineers-guide-to-stock-options)
-* [What I Wish I'd Known About Equity Before Joining A Unicorn](https://gist.github.com/yossorion/4965df74fd6da6cdc280ec57e83a202d)
+#### More Interviewing Tips
+
+* [What Startups Really Mean By “Why Should We Hire You?”](https://angel.co/blog/what-startups-really-mean-by-why-should-we-hire-you)
 
 #### Negotiation
 
 * [Ten Rules for Negotiating a Job Offer (Part 1)](http://haseebq.com/my-ten-rules-for-negotiating-a-job-offer/)
 * [How Not to Bomb Your Offer Negotiation (Part 2)](http://haseebq.com/how-not-to-bomb-your-offer-negotiation/)
+* [How I negotiated a $300,000 job offer in Silicon Valley](https://blog.usejournal.com/how-i-negotiated-a-software-engineer-offer-in-silicon-valley-f11590f5c656) (by the same person who got 6 offers)
+
+##### Equity and Stcok Options
+
+* [An Engineer’s guide to Stock Options](https://blog.alexmaccaw.com/an-engineers-guide-to-stock-options)
+* [What I Wish I'd Known About Equity Before Joining A Unicorn](https://gist.github.com/yossorion/4965df74fd6da6cdc280ec57e83a202d)
 
 #### Startups
 
@@ -114,6 +125,7 @@ Always ask these 12 questions from [the "Joel Test"](http://www.joelonsoftware.c
 ### Programming Exercises
 
 * https://projecteuler.net/
+* https://leetcode.com/
 * https://www.hackerrank.com/
 * Problem sets as known from programming contests http://codeforces.com/
 * [99 Haskell Problems](https://wiki.haskell.org/H-99:_Ninety-Nine_Haskell_Problems)
@@ -184,6 +196,8 @@ Scary story: [Data from connected CloudPets teddy bears leaked and ransomed, exp
 ---
 Tips and Tricks for setting up your system
 ------------------------------------------
+
+Can recommend looking through [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) which lists a ton of tools to use to do useful things on your system.
 
 ### Shell
 
