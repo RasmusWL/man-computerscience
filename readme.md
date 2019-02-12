@@ -92,6 +92,33 @@ Funny stories articles about computing or computer science:
 * http://www.codelitt.com/blog/my-first-10-minutes-on-a-server-primer-for-securing-ubuntu/
 
 ---
+### Job search
+
+Always ask these 12 questions from [the "Joel Test"](http://www.joelonsoftware.com/articles/fog0000000043.html)
+
+#### Equity and Stcok Options
+
+* [An Engineer’s guide to Stock Options](https://blog.alexmaccaw.com/an-engineers-guide-to-stock-options)
+* [What I Wish I'd Known About Equity Before Joining A Unicorn](https://gist.github.com/yossorion/4965df74fd6da6cdc280ec57e83a202d)
+
+#### Negotiation
+
+* [Ten Rules for Negotiating a Job Offer (Part 1)](http://haseebq.com/my-ten-rules-for-negotiating-a-job-offer/)
+* [How Not to Bomb Your Offer Negotiation (Part 2)](http://haseebq.com/how-not-to-bomb-your-offer-negotiation/)
+
+#### Startups
+
+* [Too Many Startups Like Playing Startup](https://www.groovehq.com/blog/startups-playing-startup)
+
+---
+### Programming Exercises
+
+* https://projecteuler.net/
+* https://www.hackerrank.com/
+* Problem sets as known from programming contests http://codeforces.com/
+* [99 Haskell Problems](https://wiki.haskell.org/H-99:_Ninety-Nine_Haskell_Problems)
+
+---
 ### Language Specific
 
 Always use the most powerful language! Why? Because you want to
@@ -127,33 +154,6 @@ A StrangeLoop talk about using prolog in production https://www.youtube.com/watc
 #### Idris
 
 An introduction to how a dependently typed functional language works https://www.youtube.com/watch?v=4i7KrG1Afbk
-
----
-### Job search
-
-Always ask these 12 questions from [the "Joel Test"](http://www.joelonsoftware.com/articles/fog0000000043.html)
-
-#### Equity and Stcok Options
-
-* [An Engineer’s guide to Stock Options](https://blog.alexmaccaw.com/an-engineers-guide-to-stock-options)
-* [What I Wish I'd Known About Equity Before Joining A Unicorn](https://gist.github.com/yossorion/4965df74fd6da6cdc280ec57e83a202d)
-
-#### Negotiation
-
-* [Ten Rules for Negotiating a Job Offer (Part 1)](http://haseebq.com/my-ten-rules-for-negotiating-a-job-offer/)
-* [How Not to Bomb Your Offer Negotiation (Part 2)](http://haseebq.com/how-not-to-bomb-your-offer-negotiation/)
-
-#### Startups
-
-* [Too Many Startups Like Playing Startup](https://www.groovehq.com/blog/startups-playing-startup)
-
----
-### Programming Exercises
-
-* https://projecteuler.net/
-* https://www.hackerrank.com/
-* Problem sets as known from programming contests http://codeforces.com/
-* [99 Haskell Problems](https://wiki.haskell.org/H-99:_Ninety-Nine_Haskell_Problems)
 
 ---
 ### Report writing
