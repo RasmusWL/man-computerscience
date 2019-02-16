@@ -51,7 +51,7 @@ Funny stories about bugs:
 * [65535 interfaces in C# ought to be enough for anybody](http://aakinshin.net/en/blog/dotnet/mono-and-65535interfaces/)
 * [The curious case of the Raspberry Pi in the network closet](https://blog.haschek.at/2018/the-curious-case-of-the-RasPi-in-our-network.html)
 
-Funny stories articles about computing or computer science:
+Funny joke-articles:
 
 * [A Brief, Incomplete, and Mostly Wrong History of Programming Languages](http://james-iry.blogspot.com/2009/05/brief-incomplete-and-mostly-wrong.html)
 * [The truth about C & Unix history](https://web.archive.org/web/20161015212706/http://www.rutschle.net/tech/c_unix.shtml)
@@ -59,6 +59,10 @@ Funny stories articles about computing or computer science:
 ---
 ### General programming culture
 
+* [Why Google Needed a Graph Serving System](https://blog.dgraph.io/post/why-google-needed-graph-serving-system/):
+  A story about building the right technical solution for Google's Knowledge
+  Graph (used to show facts on the right hand side of google searches), and how
+  it ended up not being used for non-technical reasons
 * [Programming Sucks](http://stilldrinking.org/programming-sucks) "Mordor sucks,
   and it's certainly more physically taxing to dig a tunnel than poke at a
   keyboard unless you're an ant. But, for the sake of the argument, can we agree
