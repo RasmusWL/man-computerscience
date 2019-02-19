@@ -148,9 +148,11 @@ read [The Idea of Lisp](https://dev.to/ericnormand/the-idea-of-lisp)
 
 #### Java
 
+
+
 Why do people not like this? I found a nice Quora question talking about this. I
 think this [answer](http://www.quora.com/Why-do-many-software-engineers-not-like-Java/answer/Michael-O-Church)
-makes a pretty good explanation. also see [this peice](https://michaelochurch.wordpress.com/2012/04/13/java-shop-politics/) --
+makes a pretty good explanation. also see [this peice on "Java Shop Politics"](https://web.archive.org/web/20150930193611/https://michaelochurch.wordpress.com/2012/04/13/java-shop-politics/) --
 for the ones feeling like reading a rant about java, see [this](http://www.quora.com/Why-do-many-software-engineers-not-like-Java/answer/Costya-Perepelitsa)
 
 #### PHP
