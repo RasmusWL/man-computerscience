@@ -40,6 +40,7 @@ I enjoyed myself:
 * [History on spam war from GMail engineer](https://moderncrypto.org/mail-archive/messaging/2014/000780.html)
 * [How Diablo II was made](http://www.usgamer.net/articles/in-their-own-words-an-oral-history-of-diablo-ii-with-david-brevik-max-schaefer-and-erich-schaefer)
 * [The story behind the "Diablo: Hellfire" expansion](https://www.polygon.com/features/2018/6/29/17517376/diablo-hellfire-expansion-behind-the-scenes-trouble)
+* [I Sell Onions on the Internet](https://www.deepsouthventures.com/i-sell-onions-on-the-internet/) -- a story about randomly finding something meaningful to do on the internet. It's hard to explain, so just trust in the 3K+ votes it got on HN ;)
 * [Who controls glibc? (Stallman trying to overrule)](https://lwn.net/Articles/753646/)
 
 Funny stories about bugs:
