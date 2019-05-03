@@ -149,8 +149,6 @@ read [The Idea of Lisp](https://dev.to/ericnormand/the-idea-of-lisp)
 
 #### Java
 
-
-
 Why do people not like this? I found a nice Quora question talking about this. I
 think this [answer](http://www.quora.com/Why-do-many-software-engineers-not-like-Java/answer/Michael-O-Church)
 makes a pretty good explanation. also see [this peice on "Java Shop Politics"](https://web.archive.org/web/20150930193611/https://michaelochurch.wordpress.com/2012/04/13/java-shop-politics/) --
@@ -173,6 +171,10 @@ A StrangeLoop talk about using prolog in production https://www.youtube.com/watc
 #### Idris
 
 An introduction to how a dependently typed functional language works https://www.youtube.com/watch?v=4i7KrG1Afbk
+
+### SQL
+
+[Don't do this](https://wiki.postgresql.org/wiki/Don%27t_Do_This) from PostgreSQL, that has a nice set of gotchas (like not using `BETWEEN` with timestamps).
 
 ---
 ### Report writing
