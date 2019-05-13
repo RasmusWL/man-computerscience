@@ -116,11 +116,13 @@ I think these 12 questions from [the "Joel Test"](http://www.joelonsoftware.com/
 * [Ten Rules for Negotiating a Job Offer (Part 1)](http://haseebq.com/my-ten-rules-for-negotiating-a-job-offer/)
 * [How Not to Bomb Your Offer Negotiation (Part 2)](http://haseebq.com/how-not-to-bomb-your-offer-negotiation/)
 * [How I negotiated a $300,000 job offer in Silicon Valley](https://blog.usejournal.com/how-i-negotiated-a-software-engineer-offer-in-silicon-valley-f11590f5c656) (by the same person who got 6 offers)
+* [Salary Negotiation: Make More Money, Be More Valued](https://www.kalzumeus.com/2012/01/23/salary-negotiation/)
 
 ##### Equity and Stcok Options
 
 * [An Engineer’s guide to Stock Options](https://blog.alexmaccaw.com/an-engineers-guide-to-stock-options)
 * [What I Wish I'd Known About Equity Before Joining A Unicorn](https://gist.github.com/yossorion/4965df74fd6da6cdc280ec57e83a202d)
+* [TLDR; Stock options](https://tldroptions.io/) -- a simple tool to help you fiugre out how much those options are worth.
 
 #### Startups
 
