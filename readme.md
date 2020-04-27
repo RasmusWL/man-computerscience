@@ -76,7 +76,7 @@ Funny joke-articles:
 * [9 Anti-Patterns Every Programmer Should Be Aware Of](http://sahandsaba.com/nine-anti-patterns-every-programmer-should-be-aware-of-with-examples.html)
 * [Googles guide til at være en god studerende](https://www.google.com/about/careers/students/guide-to-technical-development.html)
 * [Writing clean code -- it's not easy, and requires "good taste"](https://medium.com/@bartobri/applying-the-linus-tarvolds-good-taste-coding-requirement-99749f37684a#.85694049f)---
-* [The Sliding Scale of Giving a Fuck](http://blog.capwatkins.com/the-sliding-scale-of-giving-a-fuck)
+* [The Sliding Scale of Giving a Fuck](https://capwatkins.com/blog/the-sliding-scale-of-giving-a-fuck)
 * [Talks that changed the way I think about programming](http://www.opowell.com/post/talks-that-changed-the-way-i-think-about-programming/)
 * [The Best Programming Advice I Ever Got](http://russolsen.com/articles/2012/08/09/the-best-programming-advice-i-ever-got.html)
 
